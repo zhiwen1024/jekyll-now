@@ -89,11 +89,7 @@ exclude:
 #
 
 # Name of your site (displayed in the header)
-<<<<<<< HEAD
-name: 秋叶飘渺的博客
-=======
-name: CoderZhao
->>>>>>> 76647090895853b3b4b49d2416dcca0c003644cd
+
 
 # Short bio or description (displayed in the header)
 description: iOS and Android Coder
@@ -108,11 +104,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-<<<<<<< HEAD
-  email: zzw_5566@163.com
-=======
-  email:zzw_5566@163.com
->>>>>>> 76647090895853b3b4b49d2416dcca0c003644cd
+
   facebook:
   flickr:
   github: barryclark/jekyll-now
